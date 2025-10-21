@@ -2,7 +2,7 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": {
     "text": "Top 3 Most Expensive Majors in Australia",
-    "subtitle": "Based on Average Total Estimated Cost (in thousand AUD) • Paste your GitHub link here → https://github.com/your-repo/your-file",
+    "subtitle": "Based on Average Total Estimated Cost (in thousand AUD) ",
     "color": "#001f3f",
     "subtitleColor": "#6b7280",
     "fontSize": 20,
