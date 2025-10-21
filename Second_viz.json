@@ -5,7 +5,7 @@
     "text": "Housing Cost and Living Index by City",
     "subtitle": "LCI indicates price changes in household goods/services • Avg housing cost converted to AUD (1 USD ≈ 1.7 AUD)"
   },
-  "width": 950,
+  "width": 700,
   "height": 520,
   "padding": {"left": 60, "right": 90, "top": 20, "bottom": 6},
 

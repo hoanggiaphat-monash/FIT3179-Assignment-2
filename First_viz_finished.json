@@ -13,7 +13,7 @@
       }
     }
   ],
-  "width": 900,
+  "width": 700,
   "height": 520,
   "projection": {"type": "equirectangular"},
   "title": {
