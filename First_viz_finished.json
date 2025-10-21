@@ -60,7 +60,7 @@
           "field": "Employment_to_pop_pct",
           "type": "quantitative",
           "title": "Employment-to-pop (%)",
-          "scale": {"scheme": "greens"},
+          "scale": {"scheme": "blues"},
           "legend": {"format": ".1f"}
         },
         "tooltip": [
